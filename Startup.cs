@@ -7,6 +7,7 @@ using Microsoft.AspNet.Hosting;
 using Microsoft.AspNet.Http;
 using Microsoft.AspNet.Routing;
 using Microsoft.Framework.DependencyInjection;
+using Microsoft.Net.Http.Server;
 
 namespace webapi_openshift_source
 {
@@ -20,6 +21,9 @@ namespace webapi_openshift_source
     {
         public Startup(IHostingEnvironment env)
         {
+            Console.WriteLine("This is C#");
+
+
         }
 
         // This method gets called by a runtime.

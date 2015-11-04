@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "webapi-openshift-source", "webapi-openshift-source.xproj", "{99DDAA0A-A49C-48F4-AF7E-4FDA402E79F7}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "web-api01", "web-api01.xproj", "{99DDAA0A-A49C-48F4-AF7E-4FDA402E79F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
